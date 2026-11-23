@@ -1,11 +1,5 @@
 # vCard - Personal portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/persiandarik/persiandarik.github.io)
-![GitHub stars](https://img.shields.io/github/stars/persiandarik/persiandarik.github.io?style=social)
-![GitHub forks](https://img.shields.io/github/forks/persiandarik/persiandarik.github.io?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/persiandarik?style=social)](https://twitter.com/intent/follow?screen_name=persiandarik)
-
-
 Responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
@@ -26,13 +20,13 @@ To install **portfolio**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/persiandarik/persiandarik.github.io.git
+sudo git clone https://github.com/amir-ebadi/portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/persiandarik/persiandarik.github.io.git
+git clone https://github.com/amir-ebadi/portfolio.git
 ```
 
 ## Contact
@@ -42,3 +36,4 @@ If you want to contact me you can reach me at [Twitter](https://www.twitter.com/
 ## License
 
 This project is **Not free to use** and does not contains any license.
+
